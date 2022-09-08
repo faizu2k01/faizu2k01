@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizu2k01
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java advance and mysql
-- 💞️ I’m looking to collaborate on product base companies
+- 🌱 I’m currently working in Crescerance 
+- 💞️ I’m practishing my web development skills here
 - 📫 How to reach me faizhaque35@gmail.com
 
 <!---
